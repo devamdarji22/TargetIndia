@@ -2,8 +2,6 @@ package Day1;
 
 import utils.KeyboardUtil;
 
-import java.sql.SQLOutput;
-
 public class Assignment5 {
     public static void main(String[] args) {
         long degree = KeyboardUtil.getLong("Enter degree: ");
