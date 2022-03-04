@@ -14,6 +14,7 @@ public class Assignment6 {
             System.out.println("Month not valid!");
             return;
         }
+        System.out.println("Hello");
 
     }
     static boolean isValidMonth(int month) {
