@@ -18,7 +18,7 @@ public class KeyboardUtil {
         Scanner sc = new Scanner(System.in);
         return sc.nextDouble();
     }
-    public static String getFloat(String message){
+    public static String getString(String message){
         System.out.println(message);
         Scanner sc = new Scanner(System.in);
         return sc.next();
